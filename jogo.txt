@@ -1,0 +1,2 @@
+if (@caja1.x==592 and @caja1.y==250)then
+	@placar +=10
